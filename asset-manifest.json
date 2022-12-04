@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Hill-Bomb-Map/static/css/main.fbb32724.css",
+    "main.js": "/Hill-Bomb-Map/static/js/main.dd531167.js",
+    "static/js/787.197edf2f.chunk.js": "/Hill-Bomb-Map/static/js/787.197edf2f.chunk.js",
+    "static/media/jake.gif": "/Hill-Bomb-Map/static/media/jake.bbc130ee89876cb0d4d8.gif",
+    "index.html": "/Hill-Bomb-Map/index.html",
+    "main.fbb32724.css.map": "/Hill-Bomb-Map/static/css/main.fbb32724.css.map",
+    "main.dd531167.js.map": "/Hill-Bomb-Map/static/js/main.dd531167.js.map",
+    "787.197edf2f.chunk.js.map": "/Hill-Bomb-Map/static/js/787.197edf2f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fbb32724.css",
+    "static/js/main.dd531167.js"
+  ]
+}
