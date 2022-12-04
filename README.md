@@ -26,4 +26,3 @@ Find and mark steep downhills on rodes within a radious of an origin location, f
 - Loading is Jake the dog skating
 - Main Interface is Google's map
 - Google Font: Metal Mania
-![image](https://user-images.githubusercontent.com/41839742/205478192-0c225d24-2847-4384-b1e9-b6a06ab98963.png)
