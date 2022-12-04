@@ -19,7 +19,7 @@ Find and mark steep downhills on rodes within a radious of an origin location, f
 
 ## Demo Video:
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/qN4CdH92F-0)
+[![Watch the video](https://user-images.githubusercontent.com/41839742/205478192-0c225d24-2847-4384-b1e9-b6a06ab98963.png)](https://youtu.be/qN4CdH92F-0)
 
 ## UI/UX:
 - 3 input feilds for each user input
